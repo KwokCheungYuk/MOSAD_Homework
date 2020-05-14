@@ -1,0 +1,3 @@
+target 'HW6' do
+  pod 'Masonry'
+end
